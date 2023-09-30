@@ -1,6 +1,7 @@
 <h1>console.log(Welcome)</h1>
 
-<h2>console.log(my name is Joaquin, i've 19y old)</h2>
+<h3>¡Hola, soy Joaquin! 👋</h3>
+Soy un entusiasta del desarrollo de software con una pasión por la resolución de problemas y la creación de soluciones creativas. Mi objetivo es construir aplicaciones que no solo funcionen, sino que también proporcionen una experiencia increíble para el usuario.
 
 <h3>Me especializo en:</h3>
 <div>· Desarrollo de Aplicaciones de Escritorio ⭐</div>
