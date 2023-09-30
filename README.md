@@ -27,7 +27,7 @@ Soy un entusiasta del desarrollo de software con una pasión por la resolución 
 
 <h3>Panito's Language</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panitou\&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Panito's Stats</h3>
 
