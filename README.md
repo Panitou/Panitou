@@ -1,13 +1,23 @@
-# console.log(Bienvenido) 
+<h1>console.log(Welcome)</h1>
 
-Soy un estudiante de la carrera de ingeniera de sistemas al que le apasiona innovar, crear y trabajar en equipo. Algunas tecnologías con las que disfruto trabajar incluyen Java, (HTML, CSS, JAVASCRIPT) y SQL SERVER. ⭐
+<h3>Me especializo en:</h3>
+<div>· Desarrollo de Aplicaciones de Escritorio ⭐</div>
+<div>· Desarrollo Front End ⭐</div>
 
-Me especializo en:
-- Desarrollo de Aplicaciones de Escritorio
-- Desarrollo Front End
+<h3>Sígueme en:</h3>
 
-## Sígueme en:
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+<div> 
+  <a href="https://www.instagram.com/jc04.ms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/0Panito" target="_blank"><img src="https://img.shields.io/badge/Twitter-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/panitoooo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaco0mr4@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/calderonsalazarjoaquin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div>
+  <a><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
