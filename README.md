@@ -24,3 +24,11 @@ Soy un entusiasta del desarrollo de software con una pasión por la resolución 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+<h3>Panito's Language</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+<h3>Panito's Stats</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panitou&theme=tokyonight)
