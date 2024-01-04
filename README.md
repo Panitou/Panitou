@@ -5,7 +5,6 @@ Soy un entusiasta del desarrollo de software con una pasión por la resolución 
 
 <h3>Me especializo en:</h3>
 <div>· Desarrollo de Aplicaciones de Escritorio ⭐</div>
-<div>· Desarrollo Front End ⭐</div>
 
 <h3>Sígueme en:</h3>
 
@@ -19,7 +18,6 @@ Soy un entusiasta del desarrollo de software con una pasión por la resolución 
 
 <div>
   <h3>Lenguajes que uso:</h3>
-  <a><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
