@@ -1,4 +1,4 @@
-<h1>console.log(Welcome)</h1>
+<h1>print("¡Bienvenido!")</h1>
 
 <h3>¡Hola, soy Joaquin! 👋</h3>
 Soy un entusiasta del desarrollo de software con una pasión por la resolución de problemas y la creación de soluciones creativas. Mi objetivo es construir aplicaciones que no solo funcionen, sino que también proporcionen una experiencia increíble para el usuario. ¡Estoy emocionado por compartir mi trabajo y colaborar en proyectos interesantes! No dudes en explorar mis repositorios y contactarme si quieres colaborar o tienes alguna pregunta.
