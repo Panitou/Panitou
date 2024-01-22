@@ -4,9 +4,8 @@
 Soy un entusiasta del desarrollo de software con una pasión por la resolución de problemas y la creación de soluciones creativas. Mi objetivo es construir aplicaciones que no solo funcionen, sino que también proporcionen una experiencia increíble para el usuario. ¡Estoy emocionado por compartir mi trabajo y colaborar en proyectos interesantes! No dudes en explorar mis repositorios y contactarme si quieres colaborar o tienes alguna pregunta.
 
 <h3>Me especializo en:</h3>
-<ul>
-  <a>Desarrollador de aplicaciones de escritorio ⭐</a>
-</ul>
+
+<p>• Desarrollador de aplicaciones de escritorio ⭐</p>
 
 <h3>Sígueme en:</h3>
 
@@ -22,7 +21,7 @@ Soy un entusiasta del desarrollo de software con una pasión por la resolución 
   <h3>Lenguajes y herramientas que uso:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <!--<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>-->
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
   <img align="center" alt="SQLserver" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
