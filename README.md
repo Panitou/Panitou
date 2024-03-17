@@ -1,7 +1,8 @@
 <h1>¡Hola, bienvenido!</h1>
 
 <p>
-  Hola, mi nombre es Joaquin, tengo 20 años y soy Desarrollador <b>Frontend</b> con +1 año de experiencia. Especializado en desarrollar soluciones únicas apartir de mis conocimientos y nuevos aprendizajes.
+  Hola, mi nombre es Joaquin, tengo 20 años y soy <b>Desarrollador Frontend</b> con +1 año de experiencia.<br/>
+  Especializado en desarrollar soluciones únicas apartir de mis conocimientos y nuevos aprendizajes.
 </p>
 
 <h3>Escríbeme:</h3>
