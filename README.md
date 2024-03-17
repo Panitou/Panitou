@@ -1,4 +1,4 @@
-<h1>¡Hola, bienvenido!</h1>
+<h1>¡Hola, bienvenido! 🖐️</h1>
 
 <p>
   Hola, mi nombre es Joaquin, tengo 20 años y soy <b>Desarrollador Frontend</b> con +1 año de experiencia.<br/>
