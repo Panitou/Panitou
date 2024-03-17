@@ -1,10 +1,10 @@
 <h1>¡Hola, bienvenido!</h1>
 
 <p>
-  +1 año de experiencia como <b>Frontend</b>
+  Hola, mi nombre es Joaquin, tengo 20 años y soy Desarrollador <b>Frontend</b> con +1 año de experiencia. Especializado en desarrollar soluciones únicas apartir de mis conocimientos y nuevos aprendizajes.
 </p>
 
-<h3>Redes:</h3>
+<h3>Escríbeme:</h3>
 
 <div> 
   <a href="https://www.instagram.com/jc04.ms" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
