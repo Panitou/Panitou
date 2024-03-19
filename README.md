@@ -2,7 +2,7 @@
 
 <p>
   Hola, mi nombre es Joaquin, tengo 20 años y soy <b>Desarrollador Frontend</b> con +1 año de experiencia.<br/>
-  Especializado en desarrollar soluciones únicas apartir de mis conocimientos y nuevos aprendizajes.
+  Especializado en desarrollar soluciones únicas a partir de mis conocimientos y nuevos aprendizajes.
 </p>
 
 <h3>Escríbeme:</h3>
